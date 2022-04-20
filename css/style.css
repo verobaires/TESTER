@@ -2655,5 +2655,12 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   padding: 1rem;
   border: 1px solid gray;
 }
+.mb-3{
+  margin-top: 5rem;
+}
+
+.d-none{
+  display: none;
+}
 
 
