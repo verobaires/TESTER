@@ -54,7 +54,7 @@ const detectarBotones = (data) => {
                 Swal.fire({
                     position: 'top-middle',
                     icon: 'success',
-                    title: 'Agregaste un item!!!',
+                    title: 'Agregaste un item al carrito!',
                     showConfirmButton: false,
                     timer: 1500
                   })
