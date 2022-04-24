@@ -2665,4 +2665,18 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 .top-header .dropdown-menu {
   width: 50rem;
+  max-width:400px;
+}
+
+.navigation .navbar-nav > li > a :hover{
+  border-radius: 15px;
+  background-color: #cbbde0;
+  transform: scale(1.15)
+}
+
+.top-header .top-menu> li > a{
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 1.25rem;
+  font-family: 'Poppins' sans-serif;
 }
