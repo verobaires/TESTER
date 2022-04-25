@@ -22,6 +22,30 @@
         "id": 8,
         "title": "VENEZUELA",
         "thumbnailUrl": "images/shop/products/teen/teen-TShirt-fancy500x600.png"
+    },
+    {
+        "precio": 9000,
+        "id": 9,
+        "title": "DOMINICANA",
+        "thumbnailUrl": "images/shop/products/teen/teen-shool500x600.png"
+    }, 
+    {
+        "precio": 16500,
+        "id": 10,
+        "title": "MADRID",
+        "thumbnailUrl": "images/shop/products/women/women-TShirt500x600.png"
+    }, 
+    {
+        "precio": 3000,
+        "id": 11,
+        "title": "INDIA",
+        "thumbnailUrl": "images/shop/products/women/women-red-dress500x600.png"
+    }, 
+    {
+        "precio": 6000,
+        "id": 12,
+        "title": "PORTUGAL",
+        "thumbnailUrl": "images/shop/products/women/women-yellow-dress500x600.png"
     }
    
 ]
