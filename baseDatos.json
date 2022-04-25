@@ -16,66 +16,12 @@
         "id": 3,
         "title": "VENECIA",
         "thumbnailUrl": "images/shop/products/baby/girl-babyGirl-rabbit500x600.png"
-    }, 
-   
-    {
-        "precio": 10000,
-        "id": 5,
-        "title": "SUECIA",
-        "thumbnailUrl": "images/shop/products/women/women-joggin500x600.png"
-    }, 
-    
-    {
-        "precio": 5000,
-        "id": 7,
-        "title": "PERU",
-        "thumbnailUrl": "images/shop/products/teen/teen-pink-skirt500x600.png"
-    }, 
-    
-       
-    {
-        "precio": 13000,
-        "id": 14,
-        "title": "PARIS",
-        "thumbnailUrl": "images/shop/products/teen/teen-top500x600.png"
-    }, 
-          
-    {
-        "precio": 10000,
-        "id": 17,
-        "title": "SUECIA",
-        "thumbnailUrl": "images/shop/products/teen/teen-pink-skirt500x600.png"
-    }, 
-    {
-        "precio": 15000,
-        "id": 18,
-        "title": "MEXICO",
-        "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
     },
-    {
-        "precio": 5000,
-        "id": 19,
-        "title": "PERU",
-        "thumbnailUrl": "images/shop/products/women/women-tenis-dress500x600.png"
-    }, 
     {
         "precio": 8000,
-        "id": 20,
+        "id": 8,
         "title": "VENEZUELA",
-        "thumbnailUrl": "images/shop/products/teen/teen-top500x600.png"
-    }, 
-    {
-        "precio": 9000,
-        "id": 21,
-        "title": "DOMINICANA",
-        "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
-    },
- 
-    {
-        "precio": 3000,
-        "id": 23,
-        "title": "INDIA",
-        "thumbnailUrl": "images/shop/products/baby/girl-babyGirl-dress500x600.png"
+        "thumbnailUrl": "images/shop/products/teen/teen-TShirt-fancy500x600.png"
     }
    
 ]
