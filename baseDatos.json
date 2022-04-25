@@ -36,13 +36,7 @@
         "title": "PERU",
         "thumbnailUrl": "images/shop/products/teen/teen-pink-skirt500x600.png"
     }, 
-   
-    {
-        "precio": 9000,
-        "id": 9,
-        "title": "DOMINICANA",
-        "thumbnailUrl": "images/shop/products/teen/teen-shool500x600.png"
-    },    
+    
        
     {
         "precio": 13000,
@@ -92,11 +86,6 @@
         "id": 23,
         "title": "INDIA",
         "thumbnailUrl": "images/shop/products/baby/girl-babyGirl-dress500x600.png"
-    }, 
-    {
-        "precio": 6000,
-        "id": 24,
-        "title": "PORTUGAL",
-        "thumbnailUrl": "images/shop/products/teen/teen-shool500x600.png"
-    } 
+    }
+   
 ]
