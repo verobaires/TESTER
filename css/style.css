@@ -2680,3 +2680,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   font-size: 1.25rem;
   font-family: 'Poppins' sans-serif;
 }
+/* ////////////////////cambio/////////////////media para imagenes */
+@media(min-width: 992px){
+  .col-md-4{width: 24%;}
+}
