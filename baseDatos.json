@@ -50,13 +50,7 @@
         "title": "PARIS",
         "thumbnailUrl": "images/shop/products/teen/teen-top500x600.png"
     }, 
-    {
-        "precio": 20100,
-        "id": 15,
-        "title": "VENECIA",
-        "thumbnailUrl": "images/shop/products/women/women-trousers500x600.png"
-    }, 
-      
+          
     {
         "precio": 10000,
         "id": 17,
