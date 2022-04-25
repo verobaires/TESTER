@@ -17,12 +17,7 @@
         "title": "VENECIA",
         "thumbnailUrl": "images/shop/products/baby/girl-babyGirl-rabbit500x600.png"
     }, 
-    {
-        "precio": 10500,
-        "id": 4,
-        "title": "EDIMBURGO",
-        "thumbnailUrl": "images/shop/products/baby/girl-babyGirl-tonge500x600.png"
-    }, 
+   
     {
         "precio": 10000,
         "id": 5,
@@ -75,12 +70,7 @@
         "title": "DOMINICANA",
         "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
     },
-    {
-        "precio": 16500,
-        "id": 22,
-        "title": "MADRID",
-        "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
-    },
+ 
     {
         "precio": 3000,
         "id": 23,
