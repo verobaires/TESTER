@@ -42,14 +42,8 @@
         "id": 9,
         "title": "DOMINICANA",
         "thumbnailUrl": "images/shop/products/teen/teen-shool500x600.png"
-    }, 
-   
-    {
-        "precio": 5000,
-        "id": 13,
-        "title": "BARCELONA",
-        "thumbnailUrl": "images/shop/products/teen/teen-jean500x600.png"
-    },  
+    },    
+       
     {
         "precio": 13000,
         "id": 14,
