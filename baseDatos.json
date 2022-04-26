@@ -46,6 +46,30 @@
         "id": 12,
         "title": "PORTUGAL",
         "thumbnailUrl": "images/shop/products/women/women-yelow-dress.png"
+    },
+    {
+        "precio": 5000,
+        "id": 13,
+        "title": "BARCELONA",
+        "thumbnailUrl": "images/shop/products/teen/teen-jean500x600.png"
+    },  
+    {
+        "precio": 13000,
+        "id": 14,
+        "title": "PARIS",
+        "thumbnailUrl": "images/shop/products/teen/teen-top500x600.png"
+    }, 
+    {
+        "precio": 20100,
+        "id": 15,
+        "title": "VENECIA",
+        "thumbnailUrl": "images/shop/products/women/women-trousers500x600.png"
+    }, 
+    {
+        "precio": 10500,
+        "id": 16,
+        "title": "EDIMBURGO",
+        "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
     }
     
 ]
