@@ -55,17 +55,17 @@
         "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
     },
     {
-        "precio": 5000,
-        "id": 19,
-        "title": "PERU",
-        "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
-    },
+        "precio": 16500,
+        "id": 10,
+        "title": "MADRID",
+        "thumbnailUrl": "images/shop/products/women/women-TShirt500x600.png"
+    }, 
     {
-        "precio": 8000,
-        "id": 20,
-        "title": "VENEZUELA",
-        "thumbnailUrl": "images/shop/products/baby/girl-babie-girl500x600.png"
-    },
+        "precio": 3000,
+        "id": 11,
+        "title": "INDIA",
+        "thumbnailUrl": "images/shop/products/women/women-red-dress500x600.png"
+    }, 
     {
         "precio": 9000,
         "id": 21,
